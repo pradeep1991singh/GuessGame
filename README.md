@@ -9,7 +9,7 @@ A simple guess the number game in react native
 
 Clone repo
 ```
-$ git clone git@github.com:pradeep1991singh/GuessGame.git
+$ git clone https://github.com/pradeep1991singh/GuessGame.git
 ```
 
 Run android app

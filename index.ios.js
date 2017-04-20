@@ -5,7 +5,8 @@
  */
 
 import React, { Component } from 'react';
-import { AppRegistry,
+import {
+  AppRegistry,
   Text,
   Navigator,
   TouchableHighlight
